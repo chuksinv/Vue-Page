@@ -1,0 +1,6 @@
+{
+    "userList" : [
+        {"id": 1, "name":"성범", "email":"chuksinv@gmail.com", "password":"1234"}
+        , {"id": 2, "name":"축신", "email":"chuksinv@naver.com", "password":"4567"}
+    ]
+}
